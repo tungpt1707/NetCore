@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZF7vofY17/2bMbQHGUBqmbLDFVPV3rL7R7h5Av5xZxUqvql3u8wiTjdoxr/a5GvyA+2nXkOGEe9lgid+wGC4w==",
+  "success": true,
+  "projectFilePath": "C:\\NetCore\\QuanlyNhaHang.API\\QuanlyNhaHang.API\\QuanlyNhaHang.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tungt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tungt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tungt\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\tungt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\tungt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\tungt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
